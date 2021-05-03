@@ -3,8 +3,8 @@
 
 An example project for [Using result builders for action sheets in SwiftUI](https://blog.artemnovichkov.com/result-builders) article.
 
-<p align="center", width="10%"/>
-  <img src=".github/screenshot.png"/>
+<p align="center"/>
+  <img src=".github/screenshot.png" width="50%"/>
 </p>
 
 
