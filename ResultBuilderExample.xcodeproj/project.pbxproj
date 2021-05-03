@@ -11,6 +11,7 @@
 		0635ABF9263D8C430083E8A0 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0635ABF8263D8C430083E8A0 /* ContentView.swift */; };
 		0635ABFB263D8C4A0083E8A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0635ABFA263D8C4A0083E8A0 /* Assets.xcassets */; };
 		0635ABFE263D8C4A0083E8A0 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0635ABFD263D8C4A0083E8A0 /* Preview Assets.xcassets */; };
+		0635AC06263FB6370083E8A0 /* ButtonsBuilder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0635AC05263FB6370083E8A0 /* ButtonsBuilder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		0635ABFA263D8C4A0083E8A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0635ABFD263D8C4A0083E8A0 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0635ABFF263D8C4A0083E8A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0635AC05263FB6370083E8A0 /* ButtonsBuilder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonsBuilder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				0635ABF6263D8C430083E8A0 /* ResultBuilderExampleApp.swift */,
 				0635ABF8263D8C430083E8A0 /* ContentView.swift */,
+				0635AC05263FB6370083E8A0 /* ButtonsBuilder.swift */,
 				0635ABFA263D8C4A0083E8A0 /* Assets.xcassets */,
 				0635ABFF263D8C4A0083E8A0 /* Info.plist */,
 				0635ABFC263D8C4A0083E8A0 /* Preview Content */,
@@ -140,6 +143,7 @@
 			files = (
 				0635ABF9263D8C430083E8A0 /* ContentView.swift in Sources */,
 				0635ABF7263D8C430083E8A0 /* ResultBuilderExampleApp.swift in Sources */,
+				0635AC06263FB6370083E8A0 /* ButtonsBuilder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
