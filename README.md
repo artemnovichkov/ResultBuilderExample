@@ -10,9 +10,7 @@ An example project for [Using result builders for action sheets in SwiftUI](http
 
 ## Author
 
-Artem Novichkov, mail@artemnovichkov.com
-
-[![Contact me on Codementor](https://www.codementor.io/m-badges/artemnovichkov/im-a-cm-b.svg)](https://www.codementor.io/@artemnovichkov?refer=badge)
+Artem Novichkov, https://www.artemnovichkov.com/about
 
 ## License
 
